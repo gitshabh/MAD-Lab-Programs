@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">SIMPLE CALCULATOR</string>
+    <string name="CalculatorActivityHeader">RESULT</string>
+    <string name="CalculatorButtonZero">0</string>
+    <string name="CalculatorButtonOne">1</string>
+    <string name="CalculatorButtonTwo">2</string>
+    <string name="CalculatorButtonThree">3</string>
+    <string name="CalculatorButtonFour">4</string>
+    <string name="CalculatorButtonFive">5</string>
+    <string name="CalculatorButtonSix">6</string>
+    <string name="CalculatorButtonSeven">7</string>
+    <string name="CalculatorButtonEight">8</string>
+    <string name="CalculatorButtonNine">9</string>
+    <string name="CalculatorButtonAdd">+</string>
+    <string name="CalculatorButtonSubtract">-</string>
+    <string name="CalculatorButtonMultiple">*</string>
+    <string name="CalculatorButtonDivision">/</string>
+    <string name="CalculatorButtonEquals">=</string>
+    <string name="CalculatorButtonDot">.</string>
+    <string name="CalculatorButtonClear">Clear</string>
+</resources>

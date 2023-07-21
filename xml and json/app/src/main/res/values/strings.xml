@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">xmljason</string>
+    <string name="xml">xml data</string>
+    <string name="json">Json data</string>
+</resources>
